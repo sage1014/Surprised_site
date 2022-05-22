@@ -1,0 +1,32 @@
+video {
+    width: 100%;
+}
+#h1 {
+    text-align: center;
+    color: red;
+    size: 500px;
+}
+#h2 {
+    text-align: center;
+    color: red;
+    size: 500px;
+}
+#img2 {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+body {
+    transition-delay:10s;
+    background-color: black;
+}
+.tt1 {
+    color: white;
+    text-align: center;
+}
+.img7 {
+    width: 100%;
+}
+#jpgfail {
+    width: 100%;
+}
